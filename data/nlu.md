@@ -1,3 +1,8 @@
+## intent:tell_me_a_joke
+- tell me a joke 
+- can you tell a joke?
+- do you have a joke? 
+
 ## intent:greet
 - hey
 - hello
