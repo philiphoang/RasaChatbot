@@ -7,7 +7,7 @@ Also implemented SpeechToText and TextToSpeech, guide from YouTube channel Innov
 Python version 3.7.8. Virtual Environment created with PyCharm. 
 
 Start Rasa on local server:
-`rasa run -m models --endpoints.yml --port 5002 --credentials.yml`
+`rasa run -m models --endpoints endpoints.yml --port 5002 --credentials credentials.yml`
 
 Start Rasa chatbot:
 `rasa run actions`
